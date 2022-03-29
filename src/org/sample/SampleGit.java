@@ -6,6 +6,9 @@ public class SampleGit {
 		System.out.println("I am Chithu...");
 		System.out.println("How are You Dear");
 		System.out.println("Are You ok Baby");
+		System.out.println("I Love You Baby");
+		System.out.println("I Miss You Baby");
+		
 	}
 
 
